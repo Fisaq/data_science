@@ -24,3 +24,9 @@ Portanto seu primeiro trabalho como um Data Scientist será coletar e armazenar 
 * O número de estrelas que o livro recebeu.
 * O preço do livro.
 * Se o livro está em Estoque ou não.
+
+# Resolução e Tecnologias Utilizadas
+
+| Base de Dados | Ambiente | Linguagem | Resolução |
+|---------------|----------|-----------|-----------|
+| [Books to Scrape](https://books.toscrape.com/) | Google Colaboratory | Python | [Diretório](exemplo.com.br) |
