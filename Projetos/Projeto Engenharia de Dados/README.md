@@ -29,4 +29,4 @@ Portanto seu primeiro trabalho como um Data Scientist será coletar e armazenar 
 
 | Base de Dados | Ambiente | Linguagem | Resolução |
 |---------------|----------|-----------|-----------|
-| [Books to Scrape](https://books.toscrape.com/) | Google Colaboratory | Python | [Diretório](exemplo.com.br) |
+| [Books to Scrape](https://books.toscrape.com/) | Jupyter Notebook| Python | [Diretório](exemplo.com.br) |
