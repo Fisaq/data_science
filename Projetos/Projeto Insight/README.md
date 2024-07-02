@@ -29,4 +29,4 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 | Base de Dados | Ambiente | Linguagem | Resolução |
 |---------------|----------|-----------|-----------|
-| [Kagle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) | Google Colaboratory | Python | [Diretório](exemplo.com.br) |
+| [Kagle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) | Jupyter Notebook | Python | [Diretório](exemplo.com.br) |
