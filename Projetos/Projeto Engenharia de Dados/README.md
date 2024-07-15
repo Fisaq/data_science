@@ -1,4 +1,4 @@
-# Coleta e Armazenagem de Dados de Uma Livraria
+# Coleta e Armazenamento de Dados de Uma Livraria
 
 Este projeto, é um dos 5 projetos sugeridos pelo @Meigarom, do canal Comunidade DS. Em seu blog no Medium, Seja um Data Scientist, ele sugere 5 projetos essenciais para compor o portfólio de qualquer Cientista de Dados, ou aspirante a Cientista de Dados.
 
